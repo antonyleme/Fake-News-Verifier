@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554755087 source:/home/gear/Documentos/programas/ag/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
