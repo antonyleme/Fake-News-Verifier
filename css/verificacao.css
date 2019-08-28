@@ -1,0 +1,23 @@
+body{
+    background-color: #f9f9f9;
+}
+.bg-cinza {
+    background-color: rgb(229, 229, 229);
+}
+.pontuacao{
+    width: 140px; 
+    height: 140px; 
+    border-width: 7px!important;
+}
+a{
+    color: #d44950;
+}
+a:hover{
+    color: #d44950;
+}
+.titulo{
+    color: rgba(0,0,0,.7);
+}
+.titulo:hover{
+    color: rgba(0,0,0,.5);
+}

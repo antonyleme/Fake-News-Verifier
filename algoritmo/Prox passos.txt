@@ -1,0 +1,5 @@
+Banco para salvar o link, titulo e coeficientes
+Não fazer o recalculo em tempo real
+Fazer o recalculo no final do codigo e nao repegar todas as informações de novo
+Fazer o recalculo so periodicamente
+Se achar um menor antes do recalculo, dar nota 0 pra ele pra nao ficar negativo e salvar o ranking pra refazer o calculo depois
